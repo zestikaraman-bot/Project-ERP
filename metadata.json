@@ -1,0 +1,7 @@
+{
+  "name": "ABC Spice Industries ERP",
+  "description": "Desktop ERP built with Web Technologies (React/JS), SQL for data, and Electron wrapper.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
